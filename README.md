@@ -1,6 +1,6 @@
 <img src="https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png">
 <h1 align="center">Hi 👋, I'm Mudit Singal</h1>
-<h3 align="center">I'm a student</h3>
+<h3 align="center"> 3rd Year CSE-DS student @ NIET.</h3>
 <img align ="right" alt="coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 
 
